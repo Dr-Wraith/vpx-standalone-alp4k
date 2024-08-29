@@ -18,6 +18,10 @@ ROM
 Download: [vpforums](https://www.vpforums.org/index.php?app=downloads&showfile=671)
 Rom Name: xenon.zip
 
+SHA: 2FF5F00672D9A67A38B71E78C0E6A71E25A5F353
+
+MD5: 30738510F655CB900EA667663728110D
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

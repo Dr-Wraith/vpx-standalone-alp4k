@@ -16,6 +16,10 @@ ROM
 
 Download: [Archive](https://ia902301.us.archive.org/view_archive.php?archive=/30/items/vpinmame/roms/roms.zip)
 
+SHA: FF53A1C44DFCE65C2B1FE608F048366E1D0405A5
+
+MD5: 99827F772968EF334EDE295FCF0F93A9
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-2006-6d603fb

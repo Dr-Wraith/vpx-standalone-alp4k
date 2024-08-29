@@ -16,6 +16,10 @@ ROM
 
 Download: [VP Forums](https://www.vpforums.org/index.php?app=downloads&showfile=1251#)
 
+SHA: 2612CA605D84B173AA07FE8C9E980425C60464E4
+
+MD5: 8C9A09212DD10AD69EBFB24A129D7287
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

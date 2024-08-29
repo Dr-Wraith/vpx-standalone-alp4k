@@ -16,6 +16,10 @@ ROM
 
 Download: [Pinball Nirvana](https://pinballnirvana.com/forums/resources/wcsoccer.2583/)
 
+SHA: 125EC9D9A03029C867C2E7D665BFC9D7B5C7245C
+
+MD5: 83E88BD021F6310DFBFC8C6131F98A34
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

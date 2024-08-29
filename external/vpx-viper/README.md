@@ -17,6 +17,10 @@ ROM
 Download: [vpforums](http://www.vpforums.org/index.php?app=downloads&showfile=753)
 ROM Name and version: viper.zip
 
+SHA: 047A4BB26D1E869CAE004A219C931EBC3697A010
+
+MD5: 33373AF3A3C5F71FC1A6EBAC1DFE44D4
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

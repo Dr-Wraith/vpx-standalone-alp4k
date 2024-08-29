@@ -17,6 +17,10 @@ ROM
 Download: [vpforums](http://www.vpforums.org/index.php?app=downloads&showfile=804)
 ROM Name and version: wrlok_l3.zip
 
+SHA: 52ABB1891B3BEE9FA154A0B3A2BC29B703C3BA96
+
+MD5: F519BE905E786495828312871A918022
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

@@ -16,6 +16,10 @@ ROM
 
 Download: [VP Universe](https://vpuniverse.com/files/file/3919-walking-dead-the-limited-edition-v156/)
 
+SHA: C85B01504925EC5B1D9E7DF628465BA7300C295F
+
+MD5: 4F553E84D3A8E649B14467B12C5AB727
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

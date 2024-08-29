@@ -26,6 +26,10 @@ Version: whirl_l3.zip
 
 Download: [VP Forums](https://www.vpforums.org/index.php?app=downloads&showfile=937)
 
+SHA: 44064F0700E492B56CBAA5CAE3F0E602E8830AD0
+
+MD5: 862EE474E14684FF77D3299914940927
+
 
 Tested by:
 [CoffeeAtJoes]
