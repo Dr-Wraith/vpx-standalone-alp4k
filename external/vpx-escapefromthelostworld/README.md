@@ -18,6 +18,10 @@ ROM
 Download: [vpforums](http://www.vpforums.org/index.php?app=downloads&showfile=719)
 ROM Name and version: esclwrld
 
+esclwrld.zip
+SHA: 654AD6F8081A80236FF5993531187852242D95D5
+MD5: 025AA769B268503139E1FCAA9AE6E2A1
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

@@ -19,6 +19,11 @@ krull.zip
 Author(s): [Rock-ola] 
 Download:  [Pinball Nirvana](https://pinballnirvana.com/forums/resources/krull.2011/)
 
+
+krull.zip
+SHA: B7FC1A7D39025513B5190123973E159CE2626CA7
+MD5: C16405C14EBD706B6E2F14810B05D526
+
 Tested by:
 [TechZombie]
 
