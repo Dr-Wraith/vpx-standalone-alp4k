@@ -17,6 +17,10 @@ ROM
 Download: [vpforums](https://www.vpforums.org/index.php?app=downloads&showfile=639)
 ROM Name and version: blakpyra.zip
 
+blakpyra.zip
+SHA: 3be36add80f87beb380643b06c3aaa1603bb3379
+MD5: d793bdf0e8d3df4d216c2f635f1d1b37
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

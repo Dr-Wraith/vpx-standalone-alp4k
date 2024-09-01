@@ -17,6 +17,10 @@ ROM: charlies.zip (Custom Created ROM) (Compatible with VpinMame beta 3.6 and ne
 Charlie's Angels - ROM
 Click "SHOW ALL" / Click "charlies.zip"
 
+charlies.zip
+SHA: a7d4a6831ccd1e0cfd92046b6a3a56905da98d9b
+MD5: 2b7c4450ee6cc92390e98c465202b065
+
 Author(s): [TechZombie]
 Download:  [Internet Archive](https://archive.org/details/charlies_202408)
 

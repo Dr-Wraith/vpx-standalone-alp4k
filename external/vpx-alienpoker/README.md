@@ -17,6 +17,10 @@ ROM
 Download: [vpforums](https://www.vpforums.org/index.php?app=downloads&showfile=790)
 ROM Name and version: alpok_l6.zip
 
+alpok_l6.zip
+SHA: 28c153fcf16b1e13f6352d520d785151e704d7c4
+MD5: 6241c22899db43f91b1669aab2a2a5c3
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

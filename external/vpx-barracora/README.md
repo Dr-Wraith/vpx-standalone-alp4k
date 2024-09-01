@@ -17,6 +17,10 @@ ROM
 Download: [vpforums](https://www.vpforums.org/index.php?app=downloads&showfile=127)
 Rom Name: barra_l1.zip
 
+barra_l1.zip 
+SHA: 66c67cc922ee6091546b34c2fe23a7dc98855ce8
+MD5: 15ad242dfa6fe1cfc707b496851d87f1
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

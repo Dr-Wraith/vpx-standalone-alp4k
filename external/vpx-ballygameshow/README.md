@@ -16,6 +16,10 @@ ROM
 
 Download: [VP Universe](https://vpuniverse.com/files/file/574-game-show-lu-4-europe/)
 
+gs_lu4.zip
+SHA: 6a47235bb79504f23d439faa0344ce38733f0c4f
+MD5: 8dd3e8a9e4016beab805d3b5ce7a4b82
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

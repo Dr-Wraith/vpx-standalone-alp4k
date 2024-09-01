@@ -17,6 +17,10 @@ ROM
 Download: [vpforums](https://www.vpforums.org/index.php?app=downloads&showfile=781)
 ROM Name and version: blkou_l1.zip
 
+blkou_l1.zip
+SHA: 5139df9161c87d0501cd5f73db18b4a023dfb767
+MD5: 7a94aa069b4fab961c64fe2f7f5c458b
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

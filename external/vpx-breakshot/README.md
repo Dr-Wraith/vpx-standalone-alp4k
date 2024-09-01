@@ -17,6 +17,10 @@ ROM
 Download: [vpforums](https://www.vpforums.org/index.php?app=downloads&showfile=142)
 Rom Name: bsv103.zip
 
+bsv103.zip
+SHA: 3a2a93212fdcbaf240bbb5528525daf01577b80f
+MD5: 7ec9dae23d329e520624b7fdcfbd022d
+
 Alt Color
 
 Authors: [kraken](https://vpuniverse.com/profile/35517-kraken/

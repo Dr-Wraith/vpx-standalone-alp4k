@@ -16,6 +16,10 @@ ROM: spidermn.zip
 Author(s): [Rock-ola](https://pinballnirvana.com/forums/members/rock-ola.1/)
 Download:  [Pinball Nirvana](https://pinballnirvana.com/forums/resources/spidermn.2352/)
 
+spidermn.zip
+SHA: 49f68d154dc42530fe5648ecaa50cb4956441b3d
+MD5: fcccf366660cce975d600192ac508a3c
+
 Tested by:
 [TechZombie]
 

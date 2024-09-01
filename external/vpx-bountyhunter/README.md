@@ -18,6 +18,10 @@ ROM
 Download: [pinballnirvana](https://pinballnirvana.com/forums/resources/bountyh.1617/)
 Rom Name: bountyh.zip
 
+bountyh.zip
+SHA: 3a45835ff8f0bc4da80e993b6d52ae34482a0012
+MD5: 9be6466069e7ced5fb77ffc7da5d2de1
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

@@ -16,6 +16,10 @@ ROM
 
 Download: [Pinball Nirvana](https://pinballnirvana.com/forums/resources/bonebstr.1611/)
 
+bonebstr.zip
+SHA: d950e4bea86724e44b658f14cee063ef2bad8217
+MD5: efec9408172741d5363c477e8f861a4b
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

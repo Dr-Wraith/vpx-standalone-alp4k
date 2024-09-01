@@ -16,6 +16,10 @@ ROM:
 Version 3.02
 Download [VP Forums](https://www.vpforums.org/index.php?app=downloads&showfile=1115)
 
+austin.zip
+SHA: d88be6ec76278d58e722e4531b94eb1e876b1a2d
+MD5: 6c9bd12bdf41799d6218d03320b94664
+
 
 ## Status 
 

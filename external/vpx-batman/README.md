@@ -16,6 +16,10 @@ ROM
 
 Download: [VP Forums](https://www.vpforums.org/index.php?app=downloads&showfile=832)
 
+btmn_106.zip
+SHA: dad3529bfc36cbb267f91cec40c27f0c8c75c953
+MD5: 782188dbf74486711db6e428f95e76d5
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

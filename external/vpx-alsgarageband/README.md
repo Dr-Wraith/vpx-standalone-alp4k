@@ -16,6 +16,10 @@ ROM
 
 Download: [VP Forums](https://www.vpforums.org/index.php?app=downloads&showfile=401)
 
+wrldtou2.zip
+SHA: df06eff50989b9d83c8b6e7b15cca7e10473a092
+MD5: 40e4fb4f13784904557d0da5e5153d40
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

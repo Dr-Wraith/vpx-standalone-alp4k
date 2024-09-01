@@ -16,6 +16,10 @@ ROM
 
 Download: [Pinball Nirvana](https://pinballnirvana.com/forums/resources/bighouse.1568/) Filename: bighouse.zip
 
+bighouse.zip
+SHA: 44d3b05cdc88af6bcf93114e69016368b84fcade
+MD5: e12a9ed56563e5478add8c6f88f024c8
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

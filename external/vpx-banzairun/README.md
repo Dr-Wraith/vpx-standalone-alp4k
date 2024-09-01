@@ -18,6 +18,10 @@ ROM
 Download: [vpforums](http://www.vpforums.org/index.php?app=downloads&showfile=909)
 ROM Name and version: bnzai_l3
 
+bnzai_l3.zip
+SHA: 91f84246431e7e61e36f810faef609b3b8899dca
+MD5: f2571fc419f9ec584b8e74ef6c6ff771
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

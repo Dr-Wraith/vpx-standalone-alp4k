@@ -18,6 +18,10 @@ ROM
 Download: [vpuniverse](https://vpuniverse.com/files/file/1574-atlantis-bally-1989-atlantis/)
 ROM Name and version: atlantis.zip
 
+atlantis.zip
+SHA: 4a96a817b07741acd455ec9da66507b1b8608323
+MD5: bb647a56451b2d5dcb9ea5e6e92e71c8
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

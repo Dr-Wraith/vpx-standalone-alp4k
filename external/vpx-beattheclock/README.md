@@ -17,6 +17,10 @@ ROM - Both ROMs are required for this table
 Download: [VP Forums](https://www.vpforums.org/index.php?app=downloads&showfile=249) ROM Name: beatclck.zip
 Download: [Internet Archive](https://archive.org/download/mame-0.236-roms-split/MAME%200.236%20ROMs%20%28split%29/beatclck2.zip) ROM Name: beatclck2.zip
 
+beatclck2.zip
+SHA: d956a29a43ec64fd0c5e513fe43e998d452f18d1
+MD5: 9d61c1c172f20b178137e3a2a0ee60de
+
 
 ## Status 
 

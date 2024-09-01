@@ -18,6 +18,10 @@ ROM
 Download: [vpforums](https://vpuniverse.com/files/file/1281-airborne-capcom-1996-abv106/)
 ROM Name: abv106
 
+abv106.zip 
+SHA: f9ea7426d199e8d86fa9d2778f1bbf605bf0c6d8
+MD5: c1bd3bd35dcc0267d13b99cc4f4283e5
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

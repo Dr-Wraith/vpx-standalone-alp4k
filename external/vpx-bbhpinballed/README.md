@@ -12,6 +12,14 @@ Authors: [watacaractr](https://vpuniverse.com/profile/5551-watacaractr/)
 Version: 1.0
 Download: [VP Universe](https://vpuniverse.com/files/file/18258-beavis-and-butt-head-pinballed-bally-1993-directb2s-3-screen/)
 
+ROM
+
+Included in table download
+
+beav_butt.zip
+SHA: 1b68b5391d951576590a4698364455e236cae305
+MD5: 9922e296d36855e7bef63c69b09258b6
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

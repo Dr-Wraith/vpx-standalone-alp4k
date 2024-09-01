@@ -13,6 +13,10 @@ ROM
 Author(s): [destruk](https://www.vpforums.org/index.php?showuser=5)  
 Download:  [VP Forums](https://www.vpforums.org/index.php?app=downloads&showfile=479)
 
+faeton.zip
+SHA: 007b2133712d15a11e11e00a6604b7477e2884aa
+MD5: 92bd1149a1fa750476e87af1819a9acd
+
 Tested by:
 [TechZombie]
 

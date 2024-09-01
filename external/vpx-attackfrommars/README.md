@@ -16,6 +16,10 @@ ROM
 
 Download: [VP Forums](https://www.vpforums.org/index.php?app=downloads&showfile=1340)
 
+afm_113b.zip
+SHA: 9a764f947dbe0290234624ee57134e5d4577b3ea
+MD5: 7550943e9e7d9adfe6bed395b4179acd
+
 Color DMD
 
 Author: [KRAKEN](https://vpuniverse.com/profile/35517-kraken/)

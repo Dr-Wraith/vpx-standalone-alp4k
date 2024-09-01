@@ -16,6 +16,10 @@ ROM
 
 Download: [VP Universe](https://vpuniverse.com/files/file/3917-avengers-the-limited-edition-v17/)
 
+avs_170h.zip
+SHA: 53d52acafc01c04e66d2b45979b89b8ce41aa190
+MD5: 6f85f6f7cd6dc946dde7b26c0f55edc1
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

@@ -14,6 +14,10 @@ Download: [VP Universe](https://vpuniverse.com/files/file/5183-beach-bums-10-201
 
 ROM/Music - Included with VPX download
 
+Beach_Bums_1.0_(2018).zip
+SHA: 892f0917290e73f427131f304a6308bfd8603fa7
+MD5: be48347bd2831ee1b2e7e4c70545f38f
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

@@ -17,6 +17,10 @@ ROM
 Download: [vpforums](https://www.vpforums.org/index.php?app=downloads&showfile=140)
 ROM Name and version: bk_l4.zip
 
+bk_l4.zip
+SHA: c044d85e8d47cff1598523541edfd44ca8ca234e
+MD5: c0689da53921e30f6869edbfcade3a84
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

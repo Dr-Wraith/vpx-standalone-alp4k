@@ -16,6 +16,10 @@ ROM
 
 Download: [VP Forums](https://www.vpforums.org/index.php?app=downloads&showfile=1063)
 
+apollo13.zip
+SHA: c50c1dd4d6abb630e50e199d662ca4fdd97b00a4
+MD5: 92a52bfd42e78db2a855e801900489a2
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

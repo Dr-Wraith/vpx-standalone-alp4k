@@ -13,6 +13,10 @@ Author(s): [sebastiendelf](https://vpuniverse.com/profile/42328-sebastiendelf/)
 ROM: strngsci.zip
 Strange Science - ROM
 
+strngsci.zip
+SHA: 1b15a2cbff9b9a387a9c45cf94578c4fec4858dd
+MD5: b26f200b366db3f197451dea833cc2b7
+
 Author(s): [destruk](https://www.vpforums.org/index.php?showuser=5)
 Download:  [VP Forums](https://www.vpforums.org/index.php?app=downloads&showfile=715)
 

@@ -16,6 +16,10 @@ ROM
 
 Download: [VP Forums](https://www.vpforums.org/index.php?app=downloads&showfile=335)
 
+bttf_a27.zip
+SHA: 73cf0c48c825176a1a2182f1b3d3f449bcfc3b99
+MD5: 24dca99695cf1a1490c89257815689b7
+
 
 ## Status 
 

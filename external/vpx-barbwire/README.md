@@ -16,6 +16,10 @@ ROM
 
 Download: [Pinball Nirvana](https://pinballnirvana.com/forums/resources/barbwire.1547/)
 
+barbwire.zip
+SHA: fd2cb1e01d1e5805e06ba37600063a49cd035a89
+MD5: 43e5d44ca1cf29112710b6e3ee028023
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

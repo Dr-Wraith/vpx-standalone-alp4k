@@ -16,6 +16,10 @@ ROM
 
 Download: [Pinball Nirvana](https://pinballnirvana.com/forums/resources/cactjack.1644/)
 
+cactjack.zip
+SHA: 261493cb3660654e4948784a8c86c79b8bec493f
+MD5: 646bc48268a5f9559338cc60613f6796
+
 ## Status 
 
 Minimum VPX Standalone build: 10.8.0-1989-a764013

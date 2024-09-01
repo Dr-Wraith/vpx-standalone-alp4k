@@ -19,6 +19,10 @@ buckrgrs.zip
 Author(s): [Rock-ola]  
 Download:  [Pinball Nirvana](https://pinballnirvana.com/forums/resources/buckrgrs.1639/)
 
+buckrgrs.zip
+SHA: d2dc174106bdebb1f692dc4b2815b29111c389b3
+MD5: 0608261576eabf92068f1274b8d0aed4
+
 Tested by:
 [TechZombie]
 
